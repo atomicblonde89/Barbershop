@@ -1,0 +1,44 @@
+// Typography
+
+h1{
+    text-align: center;
+    font-family: $playfair;
+    font-weight: $bold;
+    font-style: $italic;
+    color: $white;
+    font-size: $xx-large;
+  }
+  
+  h3{
+    font-family: $playfair;
+    font-weight: $regular;
+    font-style: $normal;
+    font-size: $large;
+    color: $nickel;
+  }
+  
+  h4{
+    font-family: $playfair;
+    font-weight: $bold;
+    font-style: $italic;
+    font-size: $x-large;
+    text-align: center;
+  
+  }
+  
+  h5{
+    font-family: $roboto;
+    font-weight: $light;
+    font-style: $normal;
+    font-size: $large;
+    text-align: center;
+  }
+  
+  p {
+    font-family: $roboto;
+    font-weight: $light;
+    font-style: $normal;
+    font-size: $medium;
+    line-height: 50px;
+  
+  }

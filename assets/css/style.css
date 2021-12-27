@@ -1,0 +1,154 @@
+body {
+  left: 0;
+  top: 0;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-style: italic;
+  color: #FFF;
+  font-size: 70px;
+}
+
+h3 {
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  color: #6C6E70;
+}
+
+h4 {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-style: italic;
+  font-size: 30px;
+  text-align: center;
+}
+
+h5 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 18px;
+  text-align: center;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 50px;
+}
+
+.main__buttons-big {
+  border-radius: 20px;
+  padding: 0.7rem 2 rem;
+}
+
+.main__button {
+  color: #FFF;
+  background-color: #6C6E70;
+}
+.main__button:hover {
+  color: #FFF;
+  background-color: #D1D1D1;
+}
+.main__button:focus {
+  border: 1px solid;
+  border-color: #D1D1D1;
+}
+
+.footer {
+  background-color: #121619;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.footer__img {
+  display: block;
+  margin: auto;
+  width: 180px;
+  height: auto;
+}
+
+.header {
+  background-image: url("../img/post-image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top: 22rem;
+  padding-bottom: 2rem;
+}
+
+.header__img {
+  width: 40px;
+  height: 40px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20rem;
+}
+
+.main {
+  padding-top: 6rem;
+}
+
+.main__section-buttons {
+  padding-bottom: 5rem;
+  padding-top: 5rem;
+}
+
+.main__section-naomi {
+  padding-top: 5rem;
+  padding-bottom: 5em;
+  border: 1px solid;
+  border-color: #E6E7E7;
+}
+
+.main__section-naomi-img {
+  vertical-align: middle;
+}
+
+.main__section-naomi-img-img {
+  width: 250px;
+  height: 250px;
+  border-radius: 125px;
+  display: block;
+  margin: auto;
+}
+
+.main__section-naomi-titulos {
+  margin-top: 4rem;
+}
+
+.main__section-naomi-content {
+  margin-top: 3rem;
+}
+
+.main__section-pagina {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #E6E7E7;
+}
+
+.pagination-border {
+  border-top-left-radius: 0.25rem;
+  display: flex;
+  list-style: none;
+}
+
+span {
+  color: #ECBCBA;
+}
+span:hover {
+  color: #222323;
+}
+span:active {
+  color: #E6E7E7;
+}
+
+/*# sourceMappingURL=style.css.map */
